@@ -40,7 +40,6 @@ Hostel-Room-Allocation/
 ├── database.sql
 ├── README.md
 
----
 
 ## 🗃️ Database Setup
 
